@@ -16,10 +16,10 @@ module.exports = {
     )
   },
   siteMetadata: {
-    title: `Midway`,
-    description: `Gatsby + Sanity + Shopify Repo`,
-    author: `iamkevingreen`,
-    password: true
+    title: `idlehours co.`,
+    description: `all the trimmings`,
+    author: `ashcaplan`,
+    password: false
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -90,7 +90,7 @@ module.exports = {
         ]
       }
     },
-  
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
